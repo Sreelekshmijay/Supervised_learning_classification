@@ -1,4 +1,4 @@
-#COMP534 - APPLIED AI CA1 : Submitted By Shija Shaji , Sreelekshmi Jayalekshmi
+
 
 from statistics import median
 from tkinter.font import BOLD
